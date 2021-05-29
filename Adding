@@ -1,0 +1,11 @@
+#include<iostream.h>
+#include<stdio.h>
+Int a,b,c;
+main()
+{
+Cout "enter the number";
+Cin a,b;
+c=a+b
+Cout 'c';
+return o
+}
